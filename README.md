@@ -341,9 +341,10 @@ Understanding how to prioritise tickets correctly is one of the most important h
 
 ## Author
 
-**Jean-luc Batangana**  
+**Jean-luc Batangana** www.linkedin.com/in/jean-luc-batangana 
 IT Home Lab Project | April 2026  
 Building practical IT skills one project at a time.
+
 
 ---
 
